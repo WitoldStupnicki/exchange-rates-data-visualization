@@ -4,7 +4,7 @@ This project focuses on creating a storytelling data visualization of exchange r
 
 ## Dataset
 
-The dataset used in this project was obtained from the [Federal Reserve Economic Data (FRED)](https://fred.stlouisfed.org/). It contains daily exchange rate data from 1999 to 2023 for several currencies, including the Euro (EUR), British Pound (GBP), and Japanese Yen (JPY).
+The dataset used in this project was obtained from the [European Central Bank](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020). It contains daily exchange rate data from 1999 to 2023 for several currencies, including the Euro (EUR), British Pound (GBP), and Japanese Yen (JPY).
 
 ## Technologies and Libraries
 
